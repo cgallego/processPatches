@@ -1,0 +1,4 @@
+*.pyc
+*.pklz
+\snapshots
+\backups
